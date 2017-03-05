@@ -143,7 +143,7 @@
       <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
       <DP_Pad_Mask>pad.xml</DP_Pad_Mask>
       <DP_Distributive_Mask>setup.exe</DP_Distributive_Mask>
-      <DP_Distributive_Primary_URL>https://s3-us-west-2.amazonaws.com/countupbuckettest/attachments/Setup.exe</DP_Distributive_Primary_URL>
+      <DP_Distributive_Primary_URL>https://github.com/eSchoool/dll/releases/download/0.5.4/Setup.exe</DP_Distributive_Primary_URL>
     </General>
   </Dynamic_PAD>
   <Press_Release>
@@ -151,7 +151,7 @@
     <Headline>eSchool is a modern school management software for public and private schools.</Headline>
     <Summary>eSchool is a modern school management software for public and private schools.</Summary>
     <Keywords>eSchool, school, management, software, schools</Keywords>
-    <Related_URL>https://http://eschoool.azurewebsites.net</Related_URL>
+    <Related_URL>https://eschoool.azurewebsites.net</Related_URL>
     <Press_Release_Plain>eSchool is a modern school management software for public and private schools.</Press_Release_Plain>
   </Press_Release>
   <ASBMPlannerID1stRound>1</ASBMPlannerID1stRound>

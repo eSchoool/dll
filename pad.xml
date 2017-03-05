@@ -64,7 +64,7 @@
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>New Release</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
-    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_OS_Support>Win7 x32,Win7 x64,Windows 10,Windows 8</Program_OS_Support>
     <Program_Language>English,French</Program_Language>
     <Program_Change_Info>Add new features, fix bugs and improve performance</Program_Change_Info>
     <Program_System_Requirements>No special requirements</Program_System_Requirements>
@@ -154,17 +154,20 @@
     <Related_URL>https://http://eschoool.azurewebsites.net</Related_URL>
     <Press_Release_Plain>eSchool is a modern school management software for public and private schools.</Press_Release_Plain>
   </Press_Release>
+  <ASBMPlannerID1stRound>1</ASBMPlannerID1stRound>
+  <ASBMPlannerID2ndRound>2</ASBMPlannerID2ndRound>
+  <Issues>9</Issues>
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://eschoool.azurewebsites.net</Application_Info_URL>
       <Application_Order_URL>https://eschoool.azurewebsites.net</Application_Order_URL>
-      <Application_Screenshot_URL>https://eschoolweb.azurewebsites.net/images/images/students.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://eschoolweb.azurewebsites.net/images/images/mainicon.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://eschoolweb.azurewebsites.net/Install/pad.xml</Application_XML_File_URL>
+      <Application_Screenshot_URL>https://github.com/eSchoool/dll/raw/master/shoots/students.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://github.com/eSchoool/dll/raw/master/shoots/mainicon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/eSchoool/dll/master/pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://github.com/eSchoool/dll/releases/download/0.5.4/Setup.exe</Primary_Download_URL>
-      <Secondary_Download_URL>https://eschoolweb.azurewebsites.net//Install/setup.exe</Secondary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
       <Additional_Download_URL_1></Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
@@ -173,9 +176,6 @@
     <Distribution_Permissions>The trial version of eSchool can be freely distributed over the internet in an unchanged form.</Distribution_Permissions>
     <EULA>The trial version of eSchool can be freely used and distributed over the internet in an unchanged form.</EULA>
   </Permissions>
-  <ASBMPlannerID1stRound>1</ASBMPlannerID1stRound>
-  <ASBMPlannerID2ndRound>2</ASBMPlannerID2ndRound>
-  <Issues>9</Issues>
   <AppStore>
     <AppStore_AppID></AppStore_AppID>
     <AppStore_Category></AppStore_Category>

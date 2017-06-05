@@ -143,7 +143,7 @@
       <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
       <DP_Pad_Mask>pad.xml</DP_Pad_Mask>
       <DP_Distributive_Mask>setup.exe</DP_Distributive_Mask>
-      <DP_Distributive_Primary_URL>https://appcdn.blob.core.windows.net/eschool/delivery/Setup.exe</DP_Distributive_Primary_URL>
+      <DP_Distributive_Primary_URL>https://appcdn.blob.core.windows.net/eschool/Setup.exe</DP_Distributive_Primary_URL>
     </General>
   </Dynamic_PAD>
   <Press_Release>
@@ -166,7 +166,7 @@
       <Application_XML_File_URL>https://raw.githubusercontent.com/eSchoool/dll/master/pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://appcdn.blob.core.windows.net/eschool/delivery/Setup.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://appcdn.blob.core.windows.net/eschool/Setup.exe</Primary_Download_URL>
       <Secondary_Download_URL></Secondary_Download_URL>
       <Additional_Download_URL_1></Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
